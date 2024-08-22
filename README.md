@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/ajohnhub/LABURL)
+  - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
 
 <h2> Certifications</h2>
 
