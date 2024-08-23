@@ -3,7 +3,8 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
-
+  - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
+    
 <h2> Certifications</h2>
 
   - [Google Cybersecurity](https://coursera.org/share/1d07c6562924d79dd3f760d7470bff0e)
