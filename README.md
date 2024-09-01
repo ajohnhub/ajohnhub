@@ -4,11 +4,13 @@
 
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
   - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
-    
-<h2> Certifications</h2>
+  - [Mock Internal Security Audit](https://github.com/ajohnhub/google-mock-internal-audit)
+      
+<h2>Education</h2>
 
   - [Google Cybersecurity](https://coursera.org/share/1d07c6562924d79dd3f760d7470bff0e)
   - [CompTIA Security Plus](https://www.credly.com/badges/1a6c6bbf-a999-4d79-82ff-be316f863a78/public_url)
+  - Poltical Science (BA)
 
 
 <h2> 🤳 Connect with me:</h2>
