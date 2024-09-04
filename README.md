@@ -6,6 +6,7 @@
   - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
   - [Mock Internal Security Audit](https://github.com/ajohnhub/google-mock-internal-audit)
   - [Mock Vulnerability Assessment](https://github.com/ajohnhub/mock-vulnerability-assessment/blob/main/README.md)
+  - [Mock Suspicious File Hash Investigation](https://github.com/ajohnhub/investigating-a-suspicious-file-hash/blob/main/README.md)
     
 <h2>Education</h2>
 
