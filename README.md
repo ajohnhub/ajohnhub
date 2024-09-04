@@ -5,7 +5,8 @@
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
   - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
   - [Mock Internal Security Audit](https://github.com/ajohnhub/google-mock-internal-audit)
-      
+  - [Mock Vulnerability Assessment](https://github.com/ajohnhub/mock-vulnerability-assessment/blob/main/README.md)
+    
 <h2>Education</h2>
 
   - [Google Cybersecurity](https://coursera.org/share/1d07c6562924d79dd3f760d7470bff0e)
