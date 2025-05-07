@@ -19,6 +19,7 @@ Below are some of the exciting projects I've been working on!
   - [Group Policy and Account Management]
 
 - <b>DNS Server</b>
+  - [Building Intuiton for DNS]
 
 - <b>Network Share and Permissions</b>
 
