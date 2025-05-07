@@ -3,25 +3,26 @@ Below are some of the exciting projects I've been working on!
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Resource Groups, Storage Accounts, & File Editing]
-  - [Creating Virtual Machines]
-  - [Remote Desktop & Wireshark]
-  - [Firewall Configuration]
+  - [Resource Groups, Storage Accounts, & File Editing](https://github.com/ajohnhub/exploring-azure)
+  - [Creating Virtual Machines](https://github.com/ajohnhub/azure-vm)
+  - [Remote Desktop & Wireshark](https://github.com/ajohnhub/rdp-and-wireshark)
+  - [Firewall Configuration](https://github.com/ajohnhub/firewall-config)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites & Installation](https://github.com/ajohnhub/osticket-prereqs)
   - [Configuration & SLA's](https://github.com/ajohnhub/post-install-config)
     
 - <b>Active Directory</b>
-  - [AD infrastructure in Azure]
-  - [Deploying Active Directory]
-  - [Creating Users with PowerShell]
-  - [Group Policy and Account Management]
+  - [AD infrastructure in Azure](https://github.com/ajohnhub/ad-infrastructure)
+  - [Deploying Active Directory](https://github.com/ajohnhub/ad-deployment)
+  - [Creating Users with PowerShell](https://github.com/ajohnhub/users-with-powershell)
+  - [Group Policy and Account Management](https://github.com/ajohnhub/group-policy-account-management)
 
 - <b>DNS Server</b>
-  - [Building Intuition for DNS]
+  - [Building Intuition for DNS](https://github.com/ajohnhub/dns-intuition)
 
 - <b>Network File Share and Permissions</b>
+  - [Network Access](https://github.com/ajohnhub/fileshare-permissions)
 
 - <b>Python</b>
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
