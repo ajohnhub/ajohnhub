@@ -19,9 +19,9 @@ Below are some of the exciting projects I've been working on!
   - [Group Policy and Account Management]
 
 - <b>DNS Server</b>
-  - [Building Intuiton for DNS]
+  - [Building Intuition for DNS]
 
-- <b>Network Share and Permissions</b>
+- <b>Network File Share and Permissions</b>
 
 - <b>Python</b>
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
