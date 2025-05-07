@@ -9,7 +9,7 @@ Below are some of the exciting projects I've been working on!
   - [Firewall Configuration]
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Prerequisites & Installation]
+  - [Prerequisites & Installation](https://github.com/ajohnhub/osticket-prereqs)
   - [Configuration & SLA's]
     
 - <b>Active Directory</b>
