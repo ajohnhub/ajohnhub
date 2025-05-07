@@ -1,12 +1,22 @@
 <h1>Hi, I'm Alton! <br/><a 
 
-<h2>👨‍💻 General IT Projects:</h2>
-
+<h2>👨‍💻 Information Technology Projects:</h2>
+- <b>Python</b>
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
   - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
+- <b>Google Cybersecurity</b>
   - [Mock Internal Security Audit](https://github.com/ajohnhub/google-mock-internal-audit)
   - [Mock Vulnerability Assessment](https://github.com/ajohnhub/mock-vulnerability-assessment/blob/main/README.md)
   - [Mock Suspicious File Hash Investigation](https://github.com/ajohnhub/investigating-a-suspicious-file-hash/blob/main/README.md)
+- <b>Microsoft Azure</b>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+
+- <b>Active Directory</b>
+
+- <b>DNS Server</b>
+
+- <b>Network Share and Permissions</b>
     
 <h2>Education</h2>
 
