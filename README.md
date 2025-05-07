@@ -1,6 +1,26 @@
-<h1>Hi, I'm Alton! <br/><a 
-
+<h1>Hi, I'm Alton!</a>😄</h1> <br/>
+Below are some of the exciting projects I've been working on!
 <h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Resource Groups, Storage Accounts, & File Editing]
+  - [Creating Virtual Machines]
+  - [Remote Desktop & Wireshark]
+  - [Firewall Configuration]
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Prerequisites & Installation]
+  - [Configuration & SLA's]
+    
+- <b>Active Directory</b>
+  - [AD infrastructure in Azure]
+  - [Deploying Active Directory]
+  - [Creating Users with PowerShell]
+  - [Group Policy and Account Management]
+
+- <b>DNS Server</b>
+
+- <b>Network Share and Permissions</b>
 
 - <b>Python</b>
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
@@ -9,15 +29,6 @@
   - [Mock Internal Security Audit](https://github.com/ajohnhub/google-mock-internal-audit)
   - [Mock Vulnerability Assessment](https://github.com/ajohnhub/mock-vulnerability-assessment/blob/main/README.md)
   - [Mock Suspicious File Hash Investigation](https://github.com/ajohnhub/investigating-a-suspicious-file-hash/blob/main/README.md)
-- <b>Microsoft Azure</b>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-
-- <b>Active Directory</b>
-
-- <b>DNS Server</b>
-
-- <b>Network Share and Permissions</b>
     
 <h2>Education</h2>
 
