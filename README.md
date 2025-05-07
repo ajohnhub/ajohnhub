@@ -1,6 +1,7 @@
 <h1>Hi, I'm Alton! <br/><a 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>Python</b>
   - [Message Encryptor](https://github.com/ajohnhub/Message-Encryptor/blob/main/README.md)
   - [Password Generator](https://github.com/ajohnhub/PasswordGenerator)
