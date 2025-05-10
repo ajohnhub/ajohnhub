@@ -10,7 +10,7 @@ Below are some of the exciting projects I've been working on!
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites & Installation](https://github.com/ajohnhub/osticket-prereqs)
-  - [Configuration & SLA's](https://github.com/ajohnhub/post-install-config)
+  - [Configuration & SLAs](https://github.com/ajohnhub/post-install-config)
     
 - <b>Active Directory</b>
   - [AD infrastructure in Azure](https://github.com/ajohnhub/ad-infrastructure)
