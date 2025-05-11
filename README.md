@@ -36,7 +36,7 @@ Below are some of the exciting projects I've been working on!
 
   - [Google Cybersecurity](https://coursera.org/share/1d07c6562924d79dd3f760d7470bff0e)
   - [CompTIA Security Plus](https://www.credly.com/badges/1a6c6bbf-a999-4d79-82ff-be316f863a78/public_url)
-  - Poltical Science (BA)
+  - University of South Florida Graduate 
 
 
 <h2> 🤳 Connect with me:</h2>
